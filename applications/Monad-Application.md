@@ -122,7 +122,8 @@ The next steps in our 2024 Roadmap after completion of these milestones will inc
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** 
+**How did you hear about the Grants Program?**
+
 Mintbase directly as introduced by NEAR and mentioned above.
 
 - We have already received grants from NEAR $75k, Google Cloud for Startups $200k+ and Celo Camp $20k
