@@ -96,17 +96,7 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 - **FTE:**  3
 - **Costs:** 15,000 USD
 
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Mintbase nodes and send test transactions, which will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| 0d. | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Mintbase module: X | We will create a Mintbase / NEAR module that will... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Mintbase module: Y | We will create a Mintbase / NEAR module that will... |  
-| 3. | Mintbase module: Z | We will create a Mintbase / NEAR module that will... |  
-| 4. | NEAR chain integration | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
+Details of what will be delivered in the milestone is available at https://trello.com/invite/b/rYDEt1eP/ATTI5e27b825ab7be33b11cf362652ebd14b9031C994/mintbase-grant-milestones
 
 
 ### Milestone 2 Example — Additional features
