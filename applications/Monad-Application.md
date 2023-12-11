@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
-- **Project Name:** Name of your project (e.g. DuoSwap Module)
+- **Project Name:** Monad Mintbase NFT  Gated Ticketing, Creator & Fan Tools
 - Monad NFT Automation
 - **Team Name:** Legal name of your team (e.g. Duo)
 - Monad.Social
