@@ -22,8 +22,8 @@
 - Mockups/designs of any UI components
   - We have a complete, fully functioning MVP with customers and generating revenue now. The UI/UX for users both on the front-end side and for Creators to upload art is already completed and live. We can provide access to any Mintbase people since the content is behind a paywall.
   - Fan UX, Purchase of NFTs as tips, POAPs - https://monad.social/circle/djsneak/
-  - POAP Upload UI: https://monad.social/circle/djsneak/admin/nfts/
-  - NFTs for tipping: https://monad.social/circle/djsneak/admin/tipnfts/
+  - POAP Upload UI: https://monad.social/wp-content/uploads/2023/12/MonadSocial-Create-PoAP-NFT.png
+  - NFTs for tipping: https://monad.social/wp-content/uploads/2023/12/MonadSocial-Create-Tipping-NFT.png
   - Data models / API specifications of the core functionality
     
 - An overview of the technology stack to be used
