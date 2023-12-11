@@ -96,16 +96,20 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 - **FTE:**  3
 - **Costs:** 15,000 USD
 
-Details of what will be delivered in the milestone is available at https://trello.com/invite/b/rYDEt1eP/ATTI5e27b825ab7be33b11cf362652ebd14b9031C994/mintbase-grant-milestones
-
-
-### Milestone 2 Example — Additional features
+### Milestone 2  — Build Fan NFT Front End and Minting Interaction
 
 - **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+- **FTE:**  3
+- **Costs:** 15,000 USD
 
-...
+### Milestone 3  — Build Storefront and Legacy NFT Integration
+
+- **Estimated Duration:** 1 month
+- **FTE:**  3
+- **Costs:** 15,000 USD
+
+Details of what will be delivered in the milestone is available at https://trello.com/invite/b/rYDEt1eP/ATTI5e27b825ab7be33b11cf362652ebd14b9031C994/mintbase-grant-milestones
+
 ## Future Plans
 
 Please include here
