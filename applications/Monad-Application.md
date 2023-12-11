@@ -108,22 +108,21 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 - **FTE:**  3
 - **Costs:** 15,000 USD
 
-Details of what will be delivered in the milestone is available at https://trello.com/invite/b/rYDEt1eP/ATTI5e27b825ab7be33b11cf362652ebd14b9031C994/mintbase-grant-milestones
+Details of what will be delivered in each milestone is available at https://trello.com/invite/b/rYDEt1eP/ATTI5e27b825ab7be33b11cf362652ebd14b9031C994/mintbase-grant-milestones
 
 ## Future Plans
 
-Please include here
+The next steps in our 2024 Roadmap after completion of these milestones will include:
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
-
+- Rest of the creation and infrastructure development for our AR Portals including tokenization and gamification via the Unity SDK for NEAR that will carry over from the current Virtual Dance Floor App that’s already been built on NEAR. This will include earn and burn mechanics, use of NFT based Avatars, minting, tracking and allocating FTs in AR App and related gamification features and built to be compatible with AR/VR Headsets (though not required).
+  
+- When Twitter / X SDK available for Crypto Payments (we don’t see access yet), add this to our payment alternative of PayPal, Stripe and we’re working with other payment processors like Pix in Brazil.
+  
+- Further build out of NFT Gated Ticketing solutions to provide more features for IRL Venues combining their ticketing with Monad Virtual Venus and experiences. We see this as a very large opportunity and discussing desired Use Cases and features for our partners at Warner Music, festivals like Tomorrowalnd, ADE and others.
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Mintbase Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** 
+Mintbase directly as introduced by NEAR and mentioned above.
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- We have already received grants from NEAR $75k, Google Cloud for Startups $200k+ and Celo Camp $20k
