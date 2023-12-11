@@ -70,59 +70,31 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/monadsocial
+  - Project 1: https://github.com/monadsocial/NEAR-NFT
+  - Project 2: https://github.com/monadsocial/Near-Tipping
+  - Project 3: https://github.com/monadsocial/MonadFT
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+### Team LinkedIn Profiles
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
-### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
-
-## Development Status :open_book:
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+- https://www.linkedin.com/in/bretthawkinsjr/
+- https://www.linkedin.com/in/gregrjohnson/
+- https://www.linkedin.com/in/jiandong-wei-3a602158/
+- https://www.linkedin.com/in/anvarbagi/
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
 ### Overview
 
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in USN, and potentially NEAR and nUSDC, the amount will be calculated according to the exchange rate at the time of payment.
+- **Total Estimated Duration:** 3.5 Months
+- **Full-Time Equivalent (FTE):**  3 FTE (Lead Engineer + Front End Engineer + UI/UX/Design + Strategy/Marketing, 7 people)
+- **Total Costs:** $45,000
 
-### Milestone 1 Example — Implement Mintbase Modules
+### Milestone 1  — NFT Frontend and Minting Interaction
 
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 8,000 USD
+- **Estimated duration:** 1.5 month
+- **FTE:**  3
+- **Costs:** 15,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
