@@ -5,9 +5,9 @@
 > See the [Grants Program Process](https://github.com/Mintbase/Grants-Program/#pencil-process) on how to submit a proposal.
 
 - **Project Name:** Monad Mintbase NFT  Gated Ticketing, Creator & Fan Tools
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** A NEAR account to where funds can be transfered (e.g. myproject.near)
-- **[Level](../README.md#level_slider-levels):** 1, 2 or 3
+- **Team Name:** Monad.Social
+- **Payment Address:** monadsocial.near
+- **[Level](../README.md#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
