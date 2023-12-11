@@ -11,11 +11,11 @@
 
 - Monad.Social is a sophisticated subscription-based live performance streaming experience with web3 and other features for creators and users to enhance virtual experience.
 - Monad.Social allows for creators to manage and monetize their own fanbase and offers a number of benefits for those fanbases from a variety of functional NFTs to Live Streaming performance, sophisticated chat and feeds, badging, community recognition and much more. https://docs.google.com/presentation/d/1LgFlNbeyC9v7SMxqyp1zpqShieDY2Wk9A7NlELU-_Lg/edit?usp=sharing
-- We have implemented a basic NFT system for POAPs, as rewards, as a tipping benefit and we have more ideas for these as well as needing to scale, make creation easier, and a number of other improvements to the NFT system and its overall integration into our experience. A core part of our goal is to make these technologies have value for the average "fan", make it very easy to engage with and use, and drive greater creator/fan engagement and satisfaction (leading to continiued subscription)
-- Monad already received and completed a $75k NEAR Grant to build out all the necessary infrastructure and to launch the World's First "dance to earn app" we call the Virtual Dance Floor. We use the gyro and acclerometer in mobile devices to translate dancing movements into pulsing avatars that earn Monad Tokens. Phase II of this roadmap is integrate Mintbase in order to expand and improve the UX for both the Creators and Fans. We will implement the ability of Artist/Creators to directly upload their NFT art that will be used for sale of NFTs that purchased by fans as tips for music performance and POAPs. https://docs.google.com/presentation/d/1LgFlNbeyC9v7SMxqyp1zpqShieDY2Wk9A7NlELU-_Lg/edit?usp=sharing
+- We have implemented a basic NFT system for POAPs, as rewards, as a tipping benefit and we have more ideas for these as well as needing to scale, make creation easier, and a number of other improvements to the NFT system and its overall integration into our experience. A core part of our goal is to make these technologies have value for the average "fan", make it very easy to engage with and use, and drive greater creator/fan engagement and satisfaction (leading to continued subscription)
+- Monad already received and completed a $75k NEAR Grant to build out all the necessary infrastructure and to launch the World's First "dance to earn app" we call the Virtual Dance Floor. We use the gyro and accelerometer in mobile devices to translate dancing movements into pulsing avatars that earn Monad Tokens. Phase II of this roadmap is to integrate Mintbase in order to expand and improve the UX for both the Creators and Fans. We will implement the ability of Artist/Creators to directly upload their NFT art that will be used for sale of NFTs that purchased by fans as tips for music performance and POAPs. https://docs.google.com/presentation/d/1LgFlNbeyC9v7SMxqyp1zpqShieDY2Wk9A7NlELU-_Lg/edit?usp=sharing
 - In addition we want all these NFTs to be searchable and discoverable by regular web search. We will also implement the ability for Fans earning Monad Tokens via the Virtual Dance Floor, and other user behaviours, to be able to spend these Monad Tokens to purchase NFTs and to tie all of this into a NFT Gated Ticketing solution that can be used both in Virtual Events andy by IRL Venues.
-- The goal here is to create an economic ecosystem here that drivers customer acquitistion and retention behaviour for the masses - not to create speculative assets.
-- In order to accomplish this, we need to make the UX, especially for Creators, as simple and intuitive as possible. In our discussions wiht Mintbase executives (Paul Kuveke and Nate Geieir), we believe in aggregate your solutions are the best option for us to achieve these goals.
+- The goal here is to create an economic ecosystem here that drives customer acquisition and retention behaviour for the masses - not to create speculative assets.
+- In order to accomplish this, we need to make the UX, especially for Creators, as simple and intuitive as possible. In our discussions with Mintbase executives (Paul Kuveke and Nate Geieir), we believe in aggregate your solutions are the best option for us to achieve these goals.
 
 ### Project Details
 
@@ -29,7 +29,7 @@
 - An overview of the technology stack to be used
   - Smart Contracts: Rust, NEAR SDK, Mintbase API
   - Front End: React, HTML, CSS, JavaScript
-  - Back End: We are Google Cloupd for Startups Partner so all infrastrucutre on GCP with a WordPress MySQL DB.
+  - Back End: We are Google Cloud for Startups Partner so all infrastructure on GCP with a WordPress MySQL DB.
 
 ### Ecosystem Fit
 
@@ -40,7 +40,7 @@
 - What need(s) does your project meet?
   - We need to create simple, elegant solutions to lower the barriers for Creators to supply art that can be monetized through tokenization and digital asset sales.  Then to in turn create entertaining Fan Experiences that will encourage usage and therefore be an excellent customer retention tool. 
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-  - Sweatcoin has done something similar of course with the "exercise to earn" aspect of what we're doing. We are unaware of other Web3 versions of Twitch for Music which is what we are buidling out.
+  - Sweatcoin has done something similar of course with the "exercise to earn" aspect of what we're doing. We are unaware of other Web3 versions of Twitch for Music which is what we are building out.
 
 ## Team :busts_in_silhouette:
 
